@@ -1,10 +1,16 @@
 # HTML-CSS-JavaScript
 
+### Prerequisites
+- [What are Web Technologies?]()
+- Types of Web Technologies
+- What is WWW
+- What is W3C
+- What is Browser
+- What is URL?
+
+
 ### HTML
-- [Introduction](HTML\HTML.md#Introduction\to\HTML)
-- [History](HTML\HTML.md#History)
-- [Tags]()
-    - [Closed Tags]()
-    - [Unclosed Tags]()
-- Head Tags
-- [Body Tags]()
+Hyper Text Markup Language Which purpose is to design structure of web page (or) used to design static web pages.
+
+- Introduction to HTML
+- Tags
