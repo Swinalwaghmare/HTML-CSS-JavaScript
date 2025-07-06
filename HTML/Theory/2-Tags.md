@@ -10,9 +10,9 @@
 - html enities or operators (&)
 
 
-# Heading Tags
+### Heading Tags
 
-
+Example : [click hear](HTML/Practical/heading-tags.html)
 ### P Tag
 -  paragraph tag used to pring muliple lines of text
 - its paired tag
