@@ -20,4 +20,4 @@
 ```html
 <p> text <p>
 ```
-Example : [click hear](HTML\Practical\p-tag.html)
+Example : [click hear](HTML/Practical/heading-tags.html)
