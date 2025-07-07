@@ -12,7 +12,7 @@
 
 ### Heading Tags
 
-Example : [click hear](HTML/practical/heading-tags.html)
+Example : [click hear](https://github.com/Swinalwaghmare/HTML-CSS-JavaScript/blob/0f2c673cfc98ba0edb9e92d876200ccdd78e7932/HTML/Practical/heading-tags.html)
 
 ---
 
