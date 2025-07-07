@@ -8,8 +8,8 @@
 
 - [Heading tag (h)]
 - [paragraph tag (p)](#P-Tag)
-- line brake tag (br)
-- html enities or operators (&)
+- [line brake tag (br)](#br-tag)
+- [html enities or operators (&)](#entities-or-operators-(&))
 
 ### Formatting Tags
 - strong tag (b)
@@ -28,8 +28,6 @@
 
 Example : [click hear](https://github.com/Swinalwaghmare/HTML-CSS-JavaScript/blob/0f2c673cfc98ba0edb9e92d876200ccdd78e7932/HTML/Practical/heading-tags.html)
 
----
-
 ### P Tag
 -  paragraph tag used to pring muliple lines of text
 - its paired tag
@@ -38,7 +36,6 @@ Example : [click hear](https://github.com/Swinalwaghmare/HTML-CSS-JavaScript/blo
 ```
 Example : [click hear](HTML\practical\heading-tags.html)
 
----
 ### br tag
 - line brake used to move the cursor to the begining of the next line (similar to enter key of the keyboard)
 - Its unpaired tag
@@ -47,7 +44,6 @@ Example : [click hear](HTML\practical\heading-tags.html)
 ```
 Example : [click hear]()
 
----
 ### entities or operators (&) 
 - entities are nothing but special characters.
 - these special characters are used to print some symbols.
@@ -60,8 +56,6 @@ Example : [click hear]()
 ```
 Example: [click hear]()
 
----
-
 ### Strong tag (`strong or b`)
 - This tag used to print the data in strong format or bold format.
     
@@ -73,9 +67,7 @@ or
 <b> text </b>
 ```
 Example: [click hear](HTML/practical/strong-tag.html)
-
----
-    
+ 
 ### em tag (`em or i`)
 - This tag used to print the data in italic format (inclined).
     
@@ -129,7 +121,6 @@ Example: [click hear](HTML/practical/sub-tag.html)
 ```
 Example: [click hear](HTML/practical/sup-tag.html)
     
-    
 ### mark tag (`mark`)
 - Mark tag is used to highlight the text with the background yellow color.
 
@@ -137,8 +128,7 @@ Example: [click hear](HTML/practical/sup-tag.html)
 <mark> data </mark>
 ```
 Example: [click hear](HTML/practical/mark-tag.html)
-    
-    
+        
 ### span tag (`span`)
 - Span tag is used to print the data without any format.
 - Using span tag with CSS we can highlight the text, it is inline container. (grouping of small tags)
