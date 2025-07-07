@@ -22,20 +22,10 @@
     
 - HTML is an interpreter - based language. Browser interprets HTML code.
     
-    <aside>
-    
-    **Translators**: Converting high level code (human) into machine level code (MP/OS) is called as translation. Who performs this operation those called as translators.
-    
-    </aside>
-    
-    <aside>
-    
+> 📌 **Translators**: Converting high level code (human) into machine level code (MP/OS) is called as translation. Who performs this operation those called as translators.
+
     **Types**: Compiler, Interpreter, assemble
     
     Interpreter → It translates code line by line and executes line-by-line (Interpretation).
-    
-    ![image.png](attachment:3ea0b11c-4418-45f7-84db-bd8268be4dbd:image.png)
-    
-    </aside>
-    
+        
 - HTML is free ware and open source
