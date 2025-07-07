@@ -9,7 +9,7 @@
 - [Heading tag (h)]
 - [paragraph tag (p)](#P-Tag)
 - [line brake tag (br)](#br-tag)
-- [html enities or operators (&)](#entities-or-operators-(&))
+- [html enities or operators (&)](https://github.com/Swinalwaghmare/HTML-CSS-JavaScript/blob/main/HTML/Theory/2-Tags.md#entities-or-operators-)
 
 ### Formatting Tags
 - strong tag (b)
