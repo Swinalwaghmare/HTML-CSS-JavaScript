@@ -29,3 +29,4 @@
     Interpreter → It translates code line by line and executes line-by-line (Interpretation).
         
 - HTML is free ware and open source
+![image alt](https://github.com/Swinalwaghmare/HTML-CSS-JavaScript/blob/5d1268a9e4a57366bac92520d0f14843cf72332b/images/interpreter.png)
