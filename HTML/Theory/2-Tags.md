@@ -42,7 +42,7 @@ Example : [click hear](HTML\practical\heading-tags.html)
 ```html
 <br> or <br/>
 ```
-Example : [click hear]()
+Example : [click hear](https://github.com/Swinalwaghmare/HTML-CSS-JavaScript/blob/c89aa8c897cb7273d6ed24ff27d0c6d8fbfc7a8f/HTML/Practical/p-tag.html)
 
 ### entities or operators (&) 
 - entities are nothing but special characters.
@@ -54,7 +54,7 @@ Example : [click hear]()
     or 
 &<code>; code are 6 digits, 4 digits
 ```
-Example: [click hear]()
+Example: [click hear](https://github.com/Swinalwaghmare/HTML-CSS-JavaScript/blob/c89aa8c897cb7273d6ed24ff27d0c6d8fbfc7a8f/HTML/Practical/entities.html)
 
 ### Strong tag (`strong or b`)
 - This tag used to print the data in strong format or bold format.
@@ -66,7 +66,7 @@ Example: [click hear]()
 or
 <b> text </b>
 ```
-Example: [click hear](HTML/practical/strong-tag.html)
+Example: [click hear](https://github.com/Swinalwaghmare/HTML-CSS-JavaScript/blob/c89aa8c897cb7273d6ed24ff27d0c6d8fbfc7a8f/HTML/Practical/strong-tag.html)
  
 ### em tag (`em or i`)
 - This tag used to print the data in italic format (inclined).
@@ -77,7 +77,7 @@ Example: [click hear](HTML/practical/strong-tag.html)
 or
 <i> data </i>
 ```
-Example: [click hear](HTML/practical/em-tag.html)
+Example: [click hear](https://github.com/Swinalwaghmare/HTML-CSS-JavaScript/blob/c89aa8c897cb7273d6ed24ff27d0c6d8fbfc7a8f/HTML/Practical/em-tag.html)
 
 ### delete tag (`del or s`)
 - This tag used to represent inserted text or used to print the data with underline.
@@ -88,7 +88,7 @@ Example: [click hear](HTML/practical/em-tag.html)
 or
 <s> data </s>
 ```
-Example: [click hear](HTML/practical/delete-tag.html)
+Example: [click hear](https://github.com/Swinalwaghmare/HTML-CSS-JavaScript/blob/c89aa8c897cb7273d6ed24ff27d0c6d8fbfc7a8f/HTML/Practical/delete-tag.html)
     
 ### insert tag (`ins or u`)
 - This tag used to represent inserted text or used to print the data with underline.
@@ -99,7 +99,7 @@ Example: [click hear](HTML/practical/delete-tag.html)
 or
 <u> data </u>
 ```
-Example: [click hear](HTML/practical/insert-tag.html)
+Example: [click hear](https://github.com/Swinalwaghmare/HTML-CSS-JavaScript/blob/c89aa8c897cb7273d6ed24ff27d0c6d8fbfc7a8f/HTML/Practical/insert-tag.html)
     
 ### sub tag (`sub`)
 - Used to print the data below the actual line, its called as subscript.
@@ -109,7 +109,7 @@ Example: [click hear](HTML/practical/insert-tag.html)
 ```html
 <sub> data </sub>
 ```
-Example: [click hear](HTML/practical/sub-tag.html)
+Example: [click hear](https://github.com/Swinalwaghmare/HTML-CSS-JavaScript/blob/c89aa8c897cb7273d6ed24ff27d0c6d8fbfc7a8f/HTML/Practical/sub-tag.html)
     
 ### sup tag (`sup`)
 - Super script is used to print the data above the actual line
@@ -119,7 +119,7 @@ Example: [click hear](HTML/practical/sub-tag.html)
 ```html
 <sup> data </sup>
 ```
-Example: [click hear](HTML/practical/sup-tag.html)
+Example: [click hear](https://github.com/Swinalwaghmare/HTML-CSS-JavaScript/blob/c89aa8c897cb7273d6ed24ff27d0c6d8fbfc7a8f/HTML/Practical/sup-tag.html)
     
 ### mark tag (`mark`)
 - Mark tag is used to highlight the text with the background yellow color.
@@ -127,7 +127,7 @@ Example: [click hear](HTML/practical/sup-tag.html)
 ```html
 <mark> data </mark>
 ```
-Example: [click hear](HTML/practical/mark-tag.html)
+Example: [click hear](https://github.com/Swinalwaghmare/HTML-CSS-JavaScript/blob/c89aa8c897cb7273d6ed24ff27d0c6d8fbfc7a8f/HTML/Practical/mark-tag.html)
         
 ### span tag (`span`)
 - Span tag is used to print the data without any format.
@@ -138,7 +138,7 @@ Example: [click hear](HTML/practical/mark-tag.html)
 ```html
 <span> data </span>
 ```
-Example: [click hear](HTML/practical/span-tag.html)
+Example: [click hear](https://github.com/Swinalwaghmare/HTML-CSS-JavaScript/blob/c89aa8c897cb7273d6ed24ff27d0c6d8fbfc7a8f/HTML/Practical/span-tag.html)
    
     
 ### pre tag (`pre`)
@@ -150,6 +150,6 @@ Example: [click hear](HTML/practical/span-tag.html)
 <pre> data </pre>
 ```
     
-Example: [click hear](HTML/practical/pre-tag.html)
+Example: [click hear](https://github.com/Swinalwaghmare/HTML-CSS-JavaScript/blob/c89aa8c897cb7273d6ed24ff27d0c6d8fbfc7a8f/HTML/Practical/pre-tag.html)
 
 > font family get changed from times new roman to monoscope in pre tag
