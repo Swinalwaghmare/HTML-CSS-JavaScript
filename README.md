@@ -12,5 +12,5 @@
 ### HTML
 Hyper Text Markup Language Which purpose is to design structure of web page (or) used to design static web pages.
 
-- Introduction to HTML
-- Tags
+- [Introduction to HTML](HTML/Theory/1-Introduction.md)
+- [Tags](HTML/Theory/2-Tags.md)
